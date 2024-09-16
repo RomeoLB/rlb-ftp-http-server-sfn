@@ -38,7 +38,7 @@ Setup a Brightsign device as a ftp/http web server for Simple File Networking / 
 
 <img width="1342" alt="image" src="https://github.com/user-attachments/assets/40856605-4503-4795-8f74-11aca4931db5">
 
-If it all went as expected the player should take 5 minutes before checking if there are any new content published to the HTTP web folder then download the new content to finally start playback of the newly published content!
+If it all went as expected the player configured for "Web Folder" publishing should take 5 minutes before checking if there are any new content published to the HTTP web folder then download the new content to finally start playback of the newly published content!
 
 **Disclaimer: Use at Your Own Risk**
 
