@@ -38,6 +38,13 @@ Setup a Brightsign device as a ftp/http web server for Simple File Networking / 
 
 <img width="1342" alt="image" src="https://github.com/user-attachments/assets/40856605-4503-4795-8f74-11aca4931db5">
 
+### How Do I configure a player for Simple File Networking / Web Folder Publishing?
+
+In the more recent versions of BrightAuthor "Simple File Networking" has been rebranded as "Web Folder" publishing. To setup a player to retrieve content update via the "Web Folder" Publishing, under the "Publishing Mode" select "Web Folder" and enter under "URL for Web Folder" the URL that is displayed on the Brightsign device screen (same URL as step 4 and 14) 
+
+<img width="668" alt="image" src="https://github.com/user-attachments/assets/c491c190-431e-4860-b161-eaf992f68038">
+
+
 If it all went as expected the player configured for "Web Folder" publishing should take 5 minutes before checking if there are any new content published to the HTTP web folder then download the new content to finally start playback of the newly published content!
 
 **Disclaimer: Use at Your Own Risk**
